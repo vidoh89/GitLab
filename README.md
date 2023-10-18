@@ -1,4 +1,4 @@
-This repository focuses on different Git concepts and practices. It is meant to provide a dedicated repo to Git projects and challenges I faced.This will serve as a self kept diary of my Git journey .
+This repository focuses on different Git concepts and practices. It is meant to provide a dedicated repo for Git projects and challenges I face.This will serve as a self kept diary of my Git journey .
 
 10/18/2023
 Knowledge check-Git untracked and tracked status.

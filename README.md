@@ -56,6 +56,31 @@ CMD
  -git help --all (gives access to all git commands press q to escape browser command list.)
  CMD
  -git command -help(this will list meta data about the specified command ie command would be an actual command-commit,add,etc)
+```````````````
+ -Current issue:
+ reading the path specs from a given file using
+ -Resolution:in-progress
+``````````````
+using branches
+Branches allow you to work on different parts of a project without impacting the main branch.
+---
+CMD
+-git branch new-branch-name (creates a new branch)
+-git branch (this input alone,with no new branch specified, will show all current branches and display your current working branch)
+
+
+CMD
+git restore --staged <filename>
+This will restore the current working branch and remove added files from the
+staging area.
+````
+Merge branches:
+-git checkout <main branch name>
+-git merge <secondary branch name>
+Note- after updates are made and merged, the secondary branch can be removed
+CMD
+--git branch -d <branch name>
+
 
 
 
